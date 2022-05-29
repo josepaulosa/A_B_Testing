@@ -10,7 +10,6 @@
 > - Blocking technique should be used whenever necessary as a means of accounting for certain biases that may be found in any group to maintain randomness in our sampling.<br>
 - - - 
 
-    - - - 
 #### &rarr; In the notebook, besides performing an A/B test, I explain the `assumptions` and `hypothesis` of a `two proportions z-test`.
 - - - 
 ### Aditional considerations:
