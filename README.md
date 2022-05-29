@@ -11,7 +11,7 @@
 - - - 
 ### Info on datasets:
 You can find the dataset &rarr; [here](https://www.kaggle.com/datasets/zhangluyuan/ab-testing?select=ab_data.csv).
-- The dataset contains information about almost 300K+ users that were involved in a A/B test. It is an `unpaired` dataset
+- The dataset contains information about almost 300K+ users that were involved in a A/B test. It is an **`unpaired`** dataset
 - Features:
     - user_id: unique identifier for each user.
     - timestamp: associated date and time for each visit to the website by a given user.
