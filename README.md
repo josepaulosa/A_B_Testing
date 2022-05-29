@@ -11,12 +11,15 @@
 - - - 
 ### Info on datasets:
 You can find the dataset &rarr; [here](https://www.kaggle.com/datasets/zhangluyuan/ab-testing?select=ab_data.csv).
-- The dataset contains information about almost 300K+ users that were involved in a A/B test.
+- The dataset contains information about almost 300K+ users that were involved in a A/B test. It is an `unpaired` dataset
 - Features:
-    - user_id: unique identifier for each user
-    - timestamp: associated date and time for each visit to the website by a given user
-    - group: the category a user was grouped into pre-A/B test (control or treatment groups)
-    - landing_page: the page that was displayed to a user when they visited the company website (new_page or old_page)
+    - user_id: unique identifier for each user.
+    - timestamp: associated date and time for each visit to the website by a given user.
+    - group: the category a user was grouped into pre-A/B test (control or treatment groups).
+    - landing_page: the page that was displayed to a user when they visited the company website (new_page or old_page).
     - converted: whether a user converted or not (0 or 1); Note: Users in the control group ought to be displayed the old page, while those in the treatment group ought to see the new page.
     - - - 
-#### &rarr; In the notebook, besides performing an A/B test, I explain the `assumptions` and `hypothesis` of a `two proportion z-test`. 
+#### &rarr; In the notebook, besides performing an A/B test, I explain the `assumptions` and `hypothesis` of a `two proportion z-test`.
+- - - 
+### Aditional considerations:
+- ppp
