@@ -1,4 +1,8 @@
 ## **A/B Testing**<br>
+- - - 
+For an interactive preview &rarr; [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/josepaulosa/A_B_Testing/blob/main/A_B_Testing.ipynb/A_B_Testing)
+- - - 
+
 > **Definition**: A/B testing is a way to compare two versions of something to find out which performs better. It is one of the simplest forms of a randomized controlled experiment.<br>
 
 > **How it works**: the test works by showing to two groups of users (with equal or different number of partcipants), assigned at random, different versions of a product, drug, site, etc., and determining which version has most successful metrics (previously chosen according to the goals of the experiment. <br>
