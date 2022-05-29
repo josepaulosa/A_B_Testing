@@ -19,7 +19,7 @@ You can find the dataset &rarr; [here](https://www.kaggle.com/datasets/zhangluyu
     - landing_page: the page that was displayed to a user when they visited the company website (new_page or old_page).
     - converted: whether a user converted or not (0 or 1); Note: Users in the control group ought to be displayed the old page, while those in the treatment group ought to see the new page.
     - - - 
-#### &rarr; In the notebook, besides performing an A/B test, I explain the `assumptions` and `hypothesis` of a `two proportion z-test`.
+#### &rarr; In the notebook, besides performing an A/B test, I explain the `assumptions` and `hypothesis` of a `two proportions z-test`.
 - - - 
 ### Aditional considerations:
 - When performing an A/B test if one is testing just one feature, e.g., the size of the subscribe button, that is relatively simple test to perform. One might not be testing just the size but also the color, the text, the typeface, and the font size. If we run **`sequential tests`**, e.g., testing size first (large versus small), then testing color (blue versus red), then testing typeface (Times versus Arial), because we believe we shouldn’t vary two or more factors at the same time, these sequential tests are **`suboptimal`** because **`we’re not measuring what happens when factors interact`** (like, for instance, the **`interaction effects in linear regression`)**. For example, it may be that users prefer blue on average but prefer red when it’s combined with Arial. This kind of result is regularly missed in sequential A/B testing because the typeface test is run on blue buttons that have “won” the prior test.
