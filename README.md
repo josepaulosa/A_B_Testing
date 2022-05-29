@@ -1,6 +1,6 @@
 ## **A/B Testing**<br>
 - - - 
-For an interactive preview &rarr; [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/josepaulosa/A_B_Testing/blob/main/A_B_Testing.ipynb/A_B_Testing)
+For an interactive preview &rarr; [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/josepaulosa/A_B_Testing/blob/main/A_B_Testing.ipynb/A_B_Testing?labpath=https%3A%2F%2Fgithub.com%2Fjosepaulosa%2FA_B_Testing%2Fblob%2Fmain%2FA_B_Testing.ipynb)
 - - - 
 
 > **Definition**: A/B testing is a way to compare two versions of something to find out which performs better. It is one of the simplest forms of a randomized controlled experiment.<br>
