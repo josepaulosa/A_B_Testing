@@ -1,5 +1,7 @@
-## **A/B Testing**<br>
+## <h3 align="center">A/B Testing: TextBlob and Vader</h3>
+
 - - - 
+
 For an interactive preview &rarr; [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/josepaulosa/A_B_Testing/blob/main/A_B_Testing.ipynb/A_B_Testing?labpath=https%3A%2F%2Fgithub.com%2Fjosepaulosa%2FA_B_Testing%2Fblob%2Fmain%2FA_B_Testing.ipynb)
 - - - 
 
