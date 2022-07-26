@@ -1,4 +1,4 @@
-## <h3 align="center">A/B Testing: TextBlob and Vader</h3>
+## <h3 align="center">A/B Testing</h3>
 
 - - - 
 
