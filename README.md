@@ -2,7 +2,7 @@
 
 - - - 
 
-To learn how to create SageMaker notebook instance go [here](https://docs.aws.amazon.com/sagemaker/latest/dg/howitworks-create-ws.html)
+To learn how to create a SageMaker notebook instance click [here](https://docs.aws.amazon.com/sagemaker/latest/dg/howitworks-create-ws.html)
 - - - 
 
 > **Definition**: A/B testing is a way to compare two versions of something to find out which performs better. It is one of the simplest forms of a randomized controlled experiment.<br>
