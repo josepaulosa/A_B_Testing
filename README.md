@@ -27,4 +27,4 @@ You can find the dataset &rarr; [here](https://www.kaggle.com/datasets/zhangluyu
     - - - 
 
 ### Aditional consideration:
-- Radical redesigns are best tested using an A/B experiment, while **multivariate** tests indicate how various user interface elements interact with each other and support incremental improvements to a design.
+- Radical redesigns are best tested using an A/B experiment, while **`multivariate`** tests indicate how various user interface elements interact with each other and support incremental improvements to a design.
